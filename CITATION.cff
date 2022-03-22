@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: Simulations for the k-cap process on geometric random graphs
+authors:
+  - family-names: Reid
+    given-names: Mirabel
+date-released: "2022-03-21"
+repository-code: "https://github.com/mirabelreid/Assemblies-Simulations"
